@@ -1,0 +1,16 @@
+C:\Users\Maks\source\repos\Lab\obj\Debug\net5.0\Lab.csproj.AssemblyReference.cache
+C:\Users\Maks\source\repos\Lab\obj\Debug\net5.0\Lab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maks\source\repos\Lab\obj\Debug\net5.0\Lab.AssemblyInfoInputs.cache
+C:\Users\Maks\source\repos\Lab\obj\Debug\net5.0\Lab.AssemblyInfo.cs
+C:\Users\Maks\source\repos\Lab\obj\Debug\net5.0\Lab.csproj.CoreCompileInputs.cache
+C:\Users\Maks\source\repos\Lab\bin\Debug\net5.0\Lab.exe
+C:\Users\Maks\source\repos\Lab\bin\Debug\net5.0\Lab.deps.json
+C:\Users\Maks\source\repos\Lab\bin\Debug\net5.0\Lab.runtimeconfig.json
+C:\Users\Maks\source\repos\Lab\bin\Debug\net5.0\Lab.runtimeconfig.dev.json
+C:\Users\Maks\source\repos\Lab\bin\Debug\net5.0\Lab.dll
+C:\Users\Maks\source\repos\Lab\bin\Debug\net5.0\ref\Lab.dll
+C:\Users\Maks\source\repos\Lab\bin\Debug\net5.0\Lab.pdb
+C:\Users\Maks\source\repos\Lab\obj\Debug\net5.0\Lab.dll
+C:\Users\Maks\source\repos\Lab\obj\Debug\net5.0\ref\Lab.dll
+C:\Users\Maks\source\repos\Lab\obj\Debug\net5.0\Lab.pdb
+C:\Users\Maks\source\repos\Lab\obj\Debug\net5.0\Lab.genruntimeconfig.cache
